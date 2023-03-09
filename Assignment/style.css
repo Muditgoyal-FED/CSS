@@ -1,7 +1,8 @@
 .container{
     box-sizing: border-box;
-    width: 50%;
+    margin: 20px;
 }
+
 .header {
     background-color: #666;
     text-align: center;
@@ -28,4 +29,7 @@
         padding: 10px;
         text-align: center;
         color: white;
+      }
+      .layout{
+        width: 50%;
       }
